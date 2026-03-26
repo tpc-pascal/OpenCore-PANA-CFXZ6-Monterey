@@ -20,9 +20,9 @@ Dưới đây là danh sách các tài liệu, mô hình và bộ dữ liệu đ
 
 Chúng tôi xin gửi lời cảm ơn đến các cộng đồng và nền tảng phát triển các công cụ sau:
 
-* **Ngôn ngữ:** ...
-* **Cơ sở dữ liệu:** ...
-* **Thiết kế:** Draw.io, PlantUML (Sơ đồ kiến trúc), Figma (Thiết kế giao diện).
+* **Cộng đồng:** Hackintosh, Panasonic, ToughBook
+* **Thư viện:** OpenCore, Monterey
+* **Phần cứng:** Intel, KabyLake
 
 ---
 
