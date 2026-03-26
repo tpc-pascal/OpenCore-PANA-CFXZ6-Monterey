@@ -14,6 +14,17 @@ OpenCore EFI folder for Panasonic Let's Note / Toughbook CF-XZ6.
 
 ---
 
+## 🎉 Tác giả
+
+[![Contributors](https://contributors-img.web.app/image?repo=tpc-pascal/Smart-Parking-System)](https://github.com/tpc-pascal/Smart-Parking-System/graphs/contributors)
+<details open>
+<summary><b>🔍 Các thành viên</b></summary>
+
+| STT | Tên | Vai trò |
+|:---:|:---|:---|
+| 1 | Trịnh Phú Cường | Phân tích hệ điều hành |
+</details>
+
 ## 💻 Cấu hình phần cứng (System Specs)
 Danh sách phần cứng đã được kiểm chứng trên thiết bị thực tế:
 
@@ -45,21 +56,25 @@ Danh sách phần cứng đã được kiểm chứng trên thiết bị thực 
 
 ---
 
-## 📂 Lịch sử cập nhật (Changelog)
-### Phiên bản: `PANA_CFXZ6_01`
-* **SMBIOS:** MacBookPro14,1 (Tối ưu cho Kaby Lake).
-* **Kexts:** Đã tích hợp AirportItlwm cho WiFi Intel 8265NGW.
-* **Note:** Đây là phiên bản thử nghiệm ban đầu, chưa khuyến khích dùng làm máy làm việc chính (Daily Driver).
+## 📁 Cấu trúc thư mục
 
----
+```text
+OpenCore-PANA-CFXZ6-Monterey/
+├── EFI/
+│   ├── Boot/
+│   └── OC/
+├── .gitignore
+├── CONTRIBUTING.md
+├── CREDITS.md
+├── LICENSE
+├── README.md
+└── macOS_CFXZ6.png
+```
 
-## 🚀 Hướng dẫn sử dụng
-1. Fork hoặc Clone repository này.
-2. Sao chép thư mục `EFI` vào phân vùng EFI của USB hoặc ổ cứng.
-3. **Lưu ý:** Bạn cần tự tạo lại `Serial Number`, `Board Serial` và `SmUUID` bằng **GenSMBIOS** để tránh xung đột dịch vụ Apple.
+## ✈ Hướng dẫn đóng góp
 
-## 📝 Kết luận
-Dự án hiện vẫn đang trong giai đoạn phát triển và chưa hoàn thiện. Rất hoan nghênh các đóng góp (Pull Request) từ cộng đồng để xử lý triệt để lỗi Bàn phím/Touchpad trên dòng Toughbook này.
+Đọc thêm tại [CONTRIBUTING.md](./CONTRIBUTING.md)
 
----
-*I ❤️ Hackintosh Community.*
+## 🙏 Nguồn tham khảo
+
+Đọc thêm tại [CREDITS.md](./CREDITS.md)
