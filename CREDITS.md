@@ -11,7 +11,7 @@ Dưới đây là danh sách các tài liệu, công cụ đã được sử d�
 
 | STT | Tác giả | Nội dung tham khảo | Liên kết |
 |:---:|:---|:---|:---|
-| 1 | **Techy Druid** | Dual-Boot macOS and Windows on your PC or Laptop | [Guide](https://techydruid.com/macos-windows-dualboot) or [Video](https://www.youtube.com/watch?v=SSP2z_Vg_ew) |
+| 1 | **Techy Druid** | Dual-Boot macOS and Windows on your PC or Laptop | [Guide](https://techydruid.com/macos-windows-dualboot) or Video ([YT](https://www.youtube.com/watch?v=SSP2z_Vg_ew)/[Drive](https://drive.google.com/file/d/1tSzhCGN7OzhVYtItwWKK21VmhCo6LqLV/view?usp=sharing))|
 | 2 | **OpenCore** | Mac Install Recovery | [Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/mac-install-recovery.html) |
 </details>
 
