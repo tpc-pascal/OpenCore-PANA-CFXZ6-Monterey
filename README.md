@@ -71,6 +71,10 @@ OpenCore-PANA-CFXZ6-Monterey/
 └── macOS_CFXZ6.png
 ```
 
+## 💌 Guide
+
+Đọc thêm tại [GUIDE.md](./GUIDE.md)
+
 ## ✈ Hướng dẫn đóng góp
 
 Đọc thêm tại [CONTRIBUTING.md](./CONTRIBUTING.md)
