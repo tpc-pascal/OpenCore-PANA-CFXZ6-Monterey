@@ -66,6 +66,7 @@ OpenCore-PANA-CFXZ6-Monterey/
 ├── .gitignore
 ├── CONTRIBUTING.md
 ├── CREDITS.md
+├── GUIDE.md
 ├── LICENSE
 ├── README.md
 └── macOS_CFXZ6.png
