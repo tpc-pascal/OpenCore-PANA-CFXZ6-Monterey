@@ -16,7 +16,7 @@ OpenCore EFI folder for Panasonic Let's Note / Toughbook CF-XZ6.
 
 ## 🎉 Tác giả
 
-[![Contributors](https://contributors-img.web.app/image?repo=tpc-pascal/Smart-Parking-System)](https://github.com/tpc-pascal/Smart-Parking-System/graphs/contributors)
+[![Contributors](https://contributors-img.web.app/image?repo=tpc-pascal/OpenCore-PANA-CFXZ6-Monterey)](https://github.com/tpc-pascal/OpenCore-PANA-CFXZ6-Monterey/graphs/contributors)
 <details open>
 <summary><b>🔍 Các thành viên</b></summary>
 
