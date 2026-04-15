@@ -1,22 +1,32 @@
 # 🙏 Ghi công & Nguồn tham khảo (Credits)
 
-Dưới đây là danh sách các tài liệu, mô hình và bộ dữ liệu đã được sử dụng.
+Dưới đây là danh sách các tài liệu, công cụ đã được sử dụng.
 
 ---
 
-## 📚 Tài liệu (Documents), Mô hình (Models) & Bộ dữ liệu (Datasets)
+## 📚 Tài liệu (Documents)
 
 <details open>
 <summary><b>Danh sách chi tiết</b></summary>
 
 | STT | Tác giả | Nội dung tham khảo | Liên kết |
 |:---:|:---|:---|:---|
-| 1 | ... | ... | ... |
+| 1 | **...** | ... | [...](...) |
+</details>
+
+## Công cụ (Tools)
+
+<details open>
+<summary><b>Danh sách chi tiết</b></summary>
+
+| STT | Tác giả | Nội dung tham khảo | Liên kết |
+|:---:|:---|:---|:---|
+| 1 | **...** | ... | [...](...) |
 </details>
 
 ---
 
-## 🛠 Công cụ & Thư viện (Tools & Libraries)
+## 🛠 Cộng đồng nhà phát triển (Communities)
 
 Chúng tôi xin gửi lời cảm ơn đến các cộng đồng và nền tảng phát triển các công cụ sau:
 
