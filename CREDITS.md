@@ -11,7 +11,8 @@ Dưới đây là danh sách các tài liệu, công cụ đã được sử d�
 
 | STT | Tác giả | Nội dung tham khảo | Liên kết |
 |:---:|:---|:---|:---|
-| 1 | **...** | ... | [...](...) |
+| 1 | **Techy Druid** | Dual-Boot macOS and Windows on your PC or Laptop | [Guide](https://techydruid.com/macos-windows-dualboot) or [Video](https://www.youtube.com/watch?v=SSP2z_Vg_ew) |
+| 2 | **OpenCore** | Mac Install Recovery | [Guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/mac-install-recovery.html) |
 </details>
 
 ## Công cụ (Tools)
@@ -21,7 +22,12 @@ Dưới đây là danh sách các tài liệu, công cụ đã được sử d�
 
 | STT | Tác giả | Nội dung tham khảo | Liên kết |
 |:---:|:---|:---|:---|
-| 1 | **...** | ... | [...](...) |
+| 1 | **Python Software Foundation** | Python from Microsoft Store | [Link](https://apps.microsoft.com/detail/9pnrbtzxmb4z?hl=en-US&gl=US) |
+| 2 | **lzhoang2801** | OpCore-Simplify | [Link](https://github.com/lzhoang2801/OpCore-Simplify) |
+| 3 | **USBToolBox** | Kext + Tool | [Kext](https://github.com/USBToolBox/kext) and [Tool](https://github.com/USBToolBox/tool) |
+| 4 | **ic005k** | OCAuxiliaryTools | [Link](https://github.com/ic005k/OCAuxiliaryTools) |
+| 5 | **Pete Batard** | Rufus | [Link](https://rufus.ie/en/) |
+| 6 | **acidanthera** | OpenCorePkg | [Link](https://github.com/acidanthera/OpenCorePkg) |
 </details>
 
 ---
@@ -30,7 +36,7 @@ Dưới đây là danh sách các tài liệu, công cụ đã được sử d�
 
 Chúng tôi xin gửi lời cảm ơn đến các cộng đồng và nền tảng phát triển các công cụ sau:
 
-* **Cộng đồng:** Hackintosh, Panasonic, ToughBook
+* **Cộng đồng:** Python, Hackintosh, Panasonic, ToughBook
 * **Thư viện:** OpenCore, Monterey
 * **Phần cứng:** Intel, KabyLake
 
