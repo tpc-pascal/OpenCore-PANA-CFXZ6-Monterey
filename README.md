@@ -22,7 +22,7 @@ OpenCore EFI folder for Panasonic Let's Note / Toughbook CF-XZ6.
 
 | STT | Tên | Vai trò |
 |:---:|:---|:---|
-| 1 | Trịnh Phú Cường | Phân tích hệ điều hành |
+| 1 | [tpc-pascal](https://github.com/tpc-pascal) | Phân tích hệ điều hành |
 </details>
 
 ## 💻 Cấu hình phần cứng (System Specs)
