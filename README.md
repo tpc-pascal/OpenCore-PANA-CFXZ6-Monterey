@@ -63,13 +63,15 @@ OpenCore-PANA-CFXZ6-Monterey/
 ├── EFI/
 │   ├── Boot/
 │   └── OC/
+├── Tools/
+│   └── EFI_Config.bat
 ├── .gitignore
 ├── CONTRIBUTING.md
 ├── CREDITS.md
 ├── GUIDE.md
 ├── LICENSE
-├── README.md
-└── macOS_CFXZ6.png
+├── macOS_CFXZ6.png
+└── README.md
 ```
 
 ## 💌 Guide
