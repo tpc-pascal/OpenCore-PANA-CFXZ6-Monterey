@@ -58,7 +58,7 @@ Danh sách phần cứng đã được kiểm chứng trên thiết bị thực 
 
 ## 📁 Cấu trúc thư mục
 
-```text
+```
 OpenCore-PANA-CFXZ6-Monterey/
 ├── EFI/
 │   ├── Boot/
