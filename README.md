@@ -60,9 +60,13 @@ Danh sách phần cứng đã được kiểm chứng trên thiết bị thực 
 
 ```
 OpenCore-PANA-CFXZ6-Monterey/
-├── EFI/
-│   ├── Boot/
-│   └── OC/
+├── src/
+│   ├── EFI/
+│   │   ├── Boot/
+│   │   └── OC/
+│   └── com.apple.recovery.boot/
+│       ├── BaseSystem.chunklist
+│       └── BaseSystem.dmg
 ├── Tools/
 ├── .gitignore
 ├── CONTRIBUTING.md
