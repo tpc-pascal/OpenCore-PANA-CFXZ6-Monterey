@@ -64,7 +64,6 @@ OpenCore-PANA-CFXZ6-Monterey/
 │   ├── Boot/
 │   └── OC/
 ├── Tools/
-│   └── EFI_Config.bat
 ├── .gitignore
 ├── CONTRIBUTING.md
 ├── CREDITS.md
