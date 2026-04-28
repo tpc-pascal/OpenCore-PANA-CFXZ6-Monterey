@@ -30,3 +30,4 @@ python3 ./macrecovery.py -b Mac-E43C1C25D4880AD6 -m 00000000000000000 download
 ```
 bcdedit /set {bootmgr} path \efi\boot\bootx64.efi
 ```
+19. Tùy chỉnh phân vùng EFI bằng [EFI_Config.ps1](./Tools/EFI_Config.ps1)
