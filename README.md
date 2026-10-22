@@ -54,6 +54,8 @@ Danh sách phần cứng đã được kiểm chứng trên thiết bị thực 
 - [ ] **Camera:** Nhận diện ngẫu nhiên (Inconsistent).
 - [ ] **Power Management:** Lỗi Wake from Sleep (Thường xuyên gặp lỗi màn hình đen sau khi ngủ).
 
+> 💡 **PS/2 keyboard (CF-SZ6) / Bàn phím PS/2 (CF-SZ6):** this EFI ships no PS/2 driver, so the internal keyboard gets no driver on PS/2-based Let'snote models. See [KEYBOARD-FIX.md](./KEYBOARD-FIX.md).
+
 ---
 
 ## 📁 Cấu trúc thư mục
